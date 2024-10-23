@@ -1,0 +1,26 @@
+{
+  "name": "testing-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alba2020/testing-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alba2020/testing-task/issues"
+  },
+  "homepage": "https://github.com/alba2020/testing-task#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mocha": "^10.7.3",
+    "nodemon": "^3.1.7"
+  }
+}
